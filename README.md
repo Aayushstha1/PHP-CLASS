@@ -1,1 +1,1 @@
-"# PHP-CLASS" 
+# PHP-CLASS
